@@ -22,6 +22,7 @@
     "tslint": "tslint --project ."
   },
   "dependencies": {
+    "@types/deepmerge": "^2.2.0",
     "autoprefixer": "^9.1.5",
     "css-loader": "^1.0.0",
     "deepmerge": "^2.1.1",
